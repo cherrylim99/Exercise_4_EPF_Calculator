@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EPF Calculator</string>
+    <string name="date">DD/MM/YYYY </string>
+    <string name="birthday">Select Birth Date</string>
+    <string name="title">Required Basic Saving in Account 1:</string>
+    <string name="age">Your Age: </string>
+    <string name="saving">Minimum Saving: </string>
+    <string name="transfer">Maximum Transfer: </string>
+</resources>
